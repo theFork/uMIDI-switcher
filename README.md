@@ -13,4 +13,3 @@ Effect switching module based on uMIDI.
 * Shrink stacked jack clearances, revise placement
 * Fix extra resistor
 * Reannotate
-* Integrate sheet looper.sch into top level sheet
