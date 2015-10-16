@@ -9,8 +9,9 @@ Effect switching module based on uMIDI.
 
 
 ## Todo
-* Use SMD regulators
 * Use extra sheet for tuner looper (remove extra resistor)
-* Shrink stacked jack clearances
+* Replace input protection diode by schottky diode
+* Shrink stacked jack clearances, revise placement
 * Fix extra resistor
 * Reannotate
+* Integrate sheet looper.sch into top level sheet
