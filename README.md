@@ -10,7 +10,6 @@ Effect switching module based on uMIDI.
 
 ## Todo
 * Use extra sheet for tuner looper (remove extra resistor)
-* Replace input protection diode by schottky diode
 * Shrink stacked jack clearances, revise placement
 * Fix extra resistor
 * Reannotate
