@@ -9,6 +9,8 @@ Effect switching module based on uMIDI.
 
 
 ## Todo
-* Remove LED distribution
 * Use SMD regulators
+* Use extra sheet for tuner looper (remove extra resistor)
 * Shrink stacked jack clearances
+* Fix extra resistor
+* Reannotate

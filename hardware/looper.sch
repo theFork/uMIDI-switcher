@@ -10,27 +10,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:stacked_jack
-LIBS:relais
-LIBS:umidi
 LIBS:uMIDI-switcher-cache
 EELAYER 25 0
 EELAYER END
@@ -120,15 +99,15 @@ Wire Wire Line
 Wire Wire Line
 	4500 3700 5300 3700
 $Comp
-L GNDA #PWR040
+L GNDA #PWR038
 U 1 1 54EA1A07
 P 5100 3300
-AR Path="/54D120FF/54E9F8A8/54EA1A07" Ref="#PWR040"  Part="1" 
-AR Path="/54D120FF/54E9FD8E/54EA1A07" Ref="#PWR047"  Part="1" 
-AR Path="/54D120FF/54EA08BF/54EA1A07" Ref="#PWR054"  Part="1" 
-AR Path="/54D120FF/54EA08C5/54EA1A07" Ref="#PWR061"  Part="1" 
-AR Path="/54D120FF/54E9BE87/54EA1A07" Ref="#PWR068"  Part="1" 
-F 0 "#PWR054" H 5100 3050 60  0001 C CNN
+AR Path="/54D120FF/54E9F8A8/54EA1A07" Ref="#PWR038"  Part="1" 
+AR Path="/54D120FF/54E9FD8E/54EA1A07" Ref="#PWR045"  Part="1" 
+AR Path="/54D120FF/54EA08BF/54EA1A07" Ref="#PWR052"  Part="1" 
+AR Path="/54D120FF/54EA08C5/54EA1A07" Ref="#PWR059"  Part="1" 
+AR Path="/54D120FF/54E9BE87/54EA1A07" Ref="#PWR066"  Part="1" 
+F 0 "#PWR066" H 5100 3050 60  0001 C CNN
 F 1 "GNDA" H 5100 3150 60  0000 C CNN
 F 2 "" H 5100 3300 60  0000 C CNN
 F 3 "" H 5100 3300 60  0000 C CNN
