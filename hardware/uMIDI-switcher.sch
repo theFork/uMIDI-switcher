@@ -585,9 +585,11 @@ P 3650 5050
 F 0 "D1" H 3600 4950 50  0000 L CNN
 F 1 "B160" H 3550 5150 50  0000 L CNN
 F 2 "Diodes_SMD:SMA_Standard" V 3650 5050 60  0001 C CNN
-F 3 "" V 3650 5050 60  0000 C CNN
-F 4 "Digikey" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "B160-FDICT-ND" H 3650 5050 60  0001 C CNN "Part Number"
+F 3 "http://www.mouser.com/ds/2/115/ds13002-60388.pdf" V 3650 5050 60  0001 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "621-B160-F" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "Diodes Incorporated" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "B160-13-F" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    3650 5050
 	-1   0    0    1   
 $EndComp
