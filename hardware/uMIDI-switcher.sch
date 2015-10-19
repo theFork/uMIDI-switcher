@@ -33,6 +33,10 @@ F 0 "#PWR22" H 4600 2200 60  0001 C CNN
 F 1 "GND" H 4600 2300 60  0000 C CNN
 F 2 "" H 4600 2450 60  0000 C CNN
 F 3 "" H 4600 2450 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4600 2450
 	1    0    0    -1  
 $EndComp
@@ -45,6 +49,10 @@ F 0 "#PWR26" H 6150 4800 60  0001 C CNN
 F 1 "+9V" H 6150 5090 60  0000 C CNN
 F 2 "" H 6150 4950 60  0000 C CNN
 F 3 "" H 6150 4950 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    6150 4950
 	1    0    0    -1  
 $EndComp
@@ -56,6 +64,10 @@ F 0 "#PWR20" H 4000 4800 60  0001 C CNN
 F 1 "+12V" H 4000 5090 60  0000 C CNN
 F 2 "" H 4000 4950 60  0000 C CNN
 F 3 "" H 4000 4950 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4000 4950
 	1    0    0    -1  
 $EndComp
@@ -67,6 +79,10 @@ F 0 "C9" H 5950 5400 50  0000 L CNN
 F 1 "100n" H 5950 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 5938 5150 30  0001 C CNN
 F 3 "" H 5900 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    5900 5300
 	1    0    0    -1  
 $EndComp
@@ -78,6 +94,10 @@ F 0 "C8" H 4950 5400 50  0000 L CNN
 F 1 "100n" H 4950 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 4938 5150 30  0001 C CNN
 F 3 "" H 4900 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4900 5300
 	1    0    0    -1  
 $EndComp
@@ -89,6 +109,10 @@ F 0 "#PWR25" H 5900 5250 60  0001 C CNN
 F 1 "GND" H 5900 5350 60  0000 C CNN
 F 2 "" H 5900 5500 60  0000 C CNN
 F 3 "" H 5900 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    5900 5500
 	1    0    0    -1  
 $EndComp
@@ -100,6 +124,10 @@ F 0 "#PWR23" H 4900 5250 60  0001 C CNN
 F 1 "GND" H 4900 5350 60  0000 C CNN
 F 2 "" H 4900 5500 60  0000 C CNN
 F 3 "" H 4900 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4900 5500
 	1    0    0    -1  
 $EndComp
@@ -111,6 +139,10 @@ F 0 "#PWR24" H 5400 5250 60  0001 C CNN
 F 1 "GND" H 5400 5350 60  0000 C CNN
 F 2 "" H 5400 5500 60  0000 C CNN
 F 3 "" H 5400 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    5400 5500
 	1    0    0    -1  
 $EndComp
@@ -122,6 +154,10 @@ F 0 "#PWR1" H 1000 4900 60  0001 C CNN
 F 1 "+12V" V 1000 5300 60  0000 C CNN
 F 2 "" H 1000 5050 60  0000 C CNN
 F 3 "" H 1000 5050 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1000 5050
 	0    -1   -1   0   
 $EndComp
@@ -135,6 +171,8 @@ F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 1600 5300 30  0001 C CIN
 F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1600 5100 60  0001 C CNN
 F 4 "Digikey" H 1600 5100 60  0001 C CNN "Supplier"
 F 5 "MC7809CD2TGOS-ND" H 1600 5100 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 5100
 	1    0    0    -1  
 $EndComp
@@ -146,6 +184,10 @@ F 0 "C4" H 2150 5400 50  0000 L CNN
 F 1 "100n" H 2150 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2138 5150 30  0001 C CNN
 F 3 "" H 2100 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 5300
 	1    0    0    -1  
 $EndComp
@@ -157,6 +199,10 @@ F 0 "C1" H 1150 5400 50  0000 L CNN
 F 1 "100n" H 1150 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1138 5150 30  0001 C CNN
 F 3 "" H 1100 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 5300
 	1    0    0    -1  
 $EndComp
@@ -168,6 +214,10 @@ F 0 "#PWR11" H 2100 5250 60  0001 C CNN
 F 1 "GND" H 2100 5350 60  0000 C CNN
 F 2 "" H 2100 5500 60  0000 C CNN
 F 3 "" H 2100 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 5500
 	1    0    0    -1  
 $EndComp
@@ -179,6 +229,10 @@ F 0 "#PWR4" H 1100 5250 60  0001 C CNN
 F 1 "GND" H 1100 5350 60  0000 C CNN
 F 2 "" H 1100 5500 60  0000 C CNN
 F 3 "" H 1100 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 5500
 	1    0    0    -1  
 $EndComp
@@ -190,6 +244,10 @@ F 0 "#PWR8" H 1600 5250 60  0001 C CNN
 F 1 "GND" H 1600 5350 60  0000 C CNN
 F 2 "" H 1600 5500 60  0000 C CNN
 F 3 "" H 1600 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 5500
 	1    0    0    -1  
 $EndComp
@@ -201,6 +259,10 @@ F 0 "X1" H 2650 5250 50  0000 C CNN
 F 1 "CONN_01X02" V 2750 5100 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2650 5100 60  0001 C CNN
 F 3 "" H 2650 5100 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2650 5100
 	1    0    0    -1  
 $EndComp
@@ -212,6 +274,10 @@ F 0 "#PWR14" H 2400 5250 60  0001 C CNN
 F 1 "GND" H 2400 5350 60  0000 C CNN
 F 2 "" H 2400 5500 60  0000 C CNN
 F 3 "" H 2400 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2400 5500
 	1    0    0    -1  
 $EndComp
@@ -223,6 +289,10 @@ F 0 "X4" H 2950 5250 50  0000 C CNN
 F 1 "CONN_01X02" V 3050 5100 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2950 5100 60  0001 C CNN
 F 3 "" H 2950 5100 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2950 5100
 	-1   0    0    -1  
 $EndComp
@@ -234,6 +304,10 @@ F 0 "#PWR18" H 3200 4950 60  0001 C CNN
 F 1 "GND" H 3200 5050 60  0000 C CNN
 F 2 "" H 3200 5200 60  0000 C CNN
 F 3 "" H 3200 5200 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    3200 5200
 	1    0    0    -1  
 $EndComp
@@ -245,6 +319,10 @@ F 0 "C7" H 3900 5400 50  0000 L CNN
 F 1 "10u" H 3900 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206" H 3888 5150 30  0001 C CNN
 F 3 "" H 3850 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    3850 5300
 	1    0    0    -1  
 $EndComp
@@ -256,6 +334,10 @@ F 0 "#PWR19" H 3850 5250 60  0001 C CNN
 F 1 "GND" H 3850 5350 60  0000 C CNN
 F 2 "" H 3850 5500 60  0000 C CNN
 F 3 "" H 3850 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    3850 5500
 	1    0    0    -1  
 $EndComp
@@ -267,6 +349,10 @@ F 0 "#PWR2" H 1000 5850 60  0001 C CNN
 F 1 "+12V" V 1000 6250 60  0000 C CNN
 F 2 "" H 1000 6000 60  0000 C CNN
 F 3 "" H 1000 6000 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1000 6000
 	0    -1   -1   0   
 $EndComp
@@ -278,6 +364,10 @@ F 0 "C5" H 2150 6350 50  0000 L CNN
 F 1 "100n" H 2150 6150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2138 6100 30  0001 C CNN
 F 3 "" H 2100 6250 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 6250
 	1    0    0    -1  
 $EndComp
@@ -289,6 +379,10 @@ F 0 "C2" H 1150 6350 50  0000 L CNN
 F 1 "100n" H 1150 6150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1138 6100 30  0001 C CNN
 F 3 "" H 1100 6250 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 6250
 	1    0    0    -1  
 $EndComp
@@ -300,6 +394,10 @@ F 0 "#PWR12" H 2100 6200 60  0001 C CNN
 F 1 "GND" H 2100 6300 60  0000 C CNN
 F 2 "" H 2100 6450 60  0000 C CNN
 F 3 "" H 2100 6450 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 6450
 	1    0    0    -1  
 $EndComp
@@ -311,6 +409,10 @@ F 0 "#PWR5" H 1100 6200 60  0001 C CNN
 F 1 "GND" H 1100 6300 60  0000 C CNN
 F 2 "" H 1100 6450 60  0000 C CNN
 F 3 "" H 1100 6450 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 6450
 	1    0    0    -1  
 $EndComp
@@ -322,6 +424,10 @@ F 0 "#PWR9" H 1600 6200 60  0001 C CNN
 F 1 "GND" H 1600 6300 60  0000 C CNN
 F 2 "" H 1600 6450 60  0000 C CNN
 F 3 "" H 1600 6450 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 6450
 	1    0    0    -1  
 $EndComp
@@ -333,6 +439,10 @@ F 0 "X2" H 2650 6200 50  0000 C CNN
 F 1 "CONN_01X02" V 2750 6050 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2650 6050 60  0001 C CNN
 F 3 "" H 2650 6050 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2650 6050
 	1    0    0    -1  
 $EndComp
@@ -344,6 +454,10 @@ F 0 "#PWR15" H 2400 6200 60  0001 C CNN
 F 1 "GND" H 2400 6300 60  0000 C CNN
 F 2 "" H 2400 6450 60  0000 C CNN
 F 3 "" H 2400 6450 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2400 6450
 	1    0    0    -1  
 $EndComp
@@ -355,6 +469,10 @@ F 0 "#PWR3" H 1000 6800 60  0001 C CNN
 F 1 "+12V" V 1000 7200 60  0000 C CNN
 F 2 "" H 1000 6950 60  0000 C CNN
 F 3 "" H 1000 6950 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1000 6950
 	0    -1   -1   0   
 $EndComp
@@ -366,6 +484,10 @@ F 0 "C6" H 2150 7300 50  0000 L CNN
 F 1 "100n" H 2150 7100 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2138 7050 30  0001 C CNN
 F 3 "" H 2100 7200 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 7200
 	1    0    0    -1  
 $EndComp
@@ -377,6 +499,10 @@ F 0 "C3" H 1150 7300 50  0000 L CNN
 F 1 "100n" H 1150 7100 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1138 7050 30  0001 C CNN
 F 3 "" H 1100 7200 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 7200
 	1    0    0    -1  
 $EndComp
@@ -388,6 +514,10 @@ F 0 "#PWR13" H 2100 7150 60  0001 C CNN
 F 1 "GND" H 2100 7250 60  0000 C CNN
 F 2 "" H 2100 7400 60  0000 C CNN
 F 3 "" H 2100 7400 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 7400
 	1    0    0    -1  
 $EndComp
@@ -399,6 +529,10 @@ F 0 "#PWR6" H 1100 7150 60  0001 C CNN
 F 1 "GND" H 1100 7250 60  0000 C CNN
 F 2 "" H 1100 7400 60  0000 C CNN
 F 3 "" H 1100 7400 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 7400
 	1    0    0    -1  
 $EndComp
@@ -410,6 +544,10 @@ F 0 "#PWR10" H 1600 7150 60  0001 C CNN
 F 1 "GND" H 1600 7250 60  0000 C CNN
 F 2 "" H 1600 7400 60  0000 C CNN
 F 3 "" H 1600 7400 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 7400
 	1    0    0    -1  
 $EndComp
@@ -421,6 +559,10 @@ F 0 "X3" H 2650 7150 50  0000 C CNN
 F 1 "CONN_01X02" V 2750 7000 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2650 7000 60  0001 C CNN
 F 3 "" H 2650 7000 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2650 7000
 	1    0    0    -1  
 $EndComp
@@ -432,6 +574,10 @@ F 0 "#PWR16" H 2400 7150 60  0001 C CNN
 F 1 "GND" H 2400 7250 60  0000 C CNN
 F 2 "" H 2400 7400 60  0000 C CNN
 F 3 "" H 2400 7400 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2400 7400
 	1    0    0    -1  
 $EndComp
@@ -535,6 +681,10 @@ F 0 "X14" H 4350 2500 50  0000 C CNN
 F 1 "uMIDI GPIO" V 4450 1950 50  0000 C CNN
 F 2 "Connect:VASCH5x2" H 4350 1950 60  0001 C CNN
 F 3 "" H 4350 1950 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4350 1950
 	-1   0    0    -1  
 $EndComp
@@ -546,6 +696,10 @@ F 0 "X16" H 7550 5400 50  0000 C CNN
 F 1 "uMIDI Power" V 7650 5250 50  0000 C CNN
 F 2 "Connect:PINHEAD1-2" H 7550 5250 60  0001 C CNN
 F 3 "" H 7550 5250 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7550 5250
 	1    0    0    -1  
 $EndComp
@@ -557,6 +711,10 @@ F 0 "#PWR30" H 7100 5250 60  0001 C CNN
 F 1 "GND" H 7100 5350 60  0000 C CNN
 F 2 "" H 7100 5500 60  0000 C CNN
 F 3 "" H 7100 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7100 5500
 	1    0    0    -1  
 $EndComp
@@ -570,6 +728,10 @@ F 0 "C28" H 6900 5400 50  0000 L CNN
 F 1 "100n" H 6850 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 7138 5150 30  0001 C CNN
 F 3 "" H 7100 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7100 5300
 	1    0    0    -1  
 $EndComp
@@ -601,6 +763,10 @@ F 0 "#PWR31" H 7350 5250 60  0001 C CNN
 F 1 "GND" H 7350 5350 60  0000 C CNN
 F 2 "" H 7350 5500 60  0000 C CNN
 F 3 "" H 7350 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7350 5500
 	1    0    0    -1  
 $EndComp
@@ -616,6 +782,10 @@ F 0 "C10" H 4600 5400 50  0000 L CNN
 F 1 "10u" H 4600 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206" H 4588 5150 30  0001 C CNN
 F 3 "" H 4550 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4550 5300
 	1    0    0    -1  
 $EndComp
@@ -627,6 +797,10 @@ F 0 "C11" H 6300 5400 50  0000 L CNN
 F 1 "10u" H 6300 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_1206" H 6288 5150 30  0001 C CNN
 F 3 "" H 6250 5300 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    6250 5300
 	1    0    0    -1  
 $EndComp
@@ -644,6 +818,10 @@ F 0 "#PWR27" H 6250 5250 60  0001 C CNN
 F 1 "GND" H 6250 5350 60  0000 C CNN
 F 2 "" H 6250 5500 60  0000 C CNN
 F 3 "" H 6250 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    6250 5500
 	1    0    0    -1  
 $EndComp
@@ -657,6 +835,10 @@ F 0 "#PWR21" H 4550 5250 60  0001 C CNN
 F 1 "GND" H 4550 5350 60  0000 C CNN
 F 2 "" H 4550 5500 60  0000 C CNN
 F 3 "" H 4550 5500 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4550 5500
 	1    0    0    -1  
 $EndComp
@@ -677,6 +859,8 @@ F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 1600 6250 30  0001 C CIN
 F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1600 6050 60  0001 C CNN
 F 4 "Digikey" H 1600 6050 60  0001 C CNN "Supplier"
 F 5 "MC7809CD2TGOS-ND" H 1600 6050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 6050
 	1    0    0    -1  
 $EndComp
@@ -690,6 +874,8 @@ F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 1600 7200 30  0001 C CIN
 F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1600 7000 60  0001 C CNN
 F 4 "Digikey" H 1600 7000 60  0001 C CNN "Supplier"
 F 5 "MC7809CD2TGOS-ND" H 1600 7000 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 7000
 	1    0    0    -1  
 $EndComp
@@ -703,6 +889,8 @@ F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 5400 5300 30  0001 C CIN
 F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 5400 5100 60  0001 C CNN
 F 4 "Digikey" H 5400 5100 60  0001 C CNN "Supplier"
 F 5 "MC7809CD2TGOS-ND" H 5400 5100 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    5400 5100
 	1    0    0    -1  
 $EndComp
@@ -784,7 +972,8 @@ F 2 "uMIDI-switcher:NSJ12HF-1" H 3100 2650 60  0001 C CNN
 F 3 "" H 3100 2650 60  0000 C CNN
 F 4 "Mouser" H 3100 2650 60  0001 C CNN "Supplier"
 F 5 "568-NSJ12HF-1 " H 3100 2650 60  0001 C CNN "Part Number"
-F 6 "http://www.mouser.de/ProductDetail/Neutrik/NSJ12HF-1/?qs=%2fha2pyFaduh94rO%252bidRgYpzOVRjO%2fmX%2foGmQWxGiJcnBKJApPofXWA%3d%3d" H 3100 2650 60  0001 C CNN "Link"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    3100 2650
 	1    0    0    -1  
 $EndComp
@@ -802,6 +991,10 @@ F 0 "#PWR17" H 2450 2850 60  0001 C CNN
 F 1 "GNDA" H 2450 2950 60  0000 C CNN
 F 2 "" H 2450 3100 60  0000 C CNN
 F 3 "" H 2450 3100 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2450 3100
 	-1   0    0    1   
 $EndComp
@@ -815,6 +1008,10 @@ F 0 "#PWR7" H 1550 2450 60  0001 C CNN
 F 1 "GNDA" H 1550 2550 60  0000 C CNN
 F 2 "" H 1550 2700 60  0000 C CNN
 F 3 "" H 1550 2700 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1550 2700
 	1    0    0    -1  
 $EndComp
@@ -856,7 +1053,8 @@ F 2 "uMIDI-switcher:NSJ12HF-1" H 8300 2650 60  0001 C CNN
 F 3 "" H 8300 2650 60  0000 C CNN
 F 4 "Mouser" H 3100 2650 60  0001 C CNN "Supplier"
 F 5 "568-NSJ12HF-1 " H 3100 2650 60  0001 C CNN "Part Number"
-F 6 "http://www.mouser.de/ProductDetail/Neutrik/NSJ12HF-1/?qs=%2fha2pyFaduh94rO%252bidRgYpzOVRjO%2fmX%2foGmQWxGiJcnBKJApPofXWA%3d%3d" H 3100 2650 60  0001 C CNN "Link"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    8300 2650
 	-1   0    0    -1  
 $EndComp
@@ -868,6 +1066,10 @@ F 0 "#PWR33" H 9850 2450 60  0001 C CNN
 F 1 "GNDA" H 9850 2550 60  0000 C CNN
 F 2 "" H 9850 2700 60  0000 C CNN
 F 3 "" H 9850 2700 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    9850 2700
 	-1   0    0    -1  
 $EndComp
@@ -901,6 +1103,10 @@ F 0 "#PWR32" H 9850 1200 60  0001 C CNN
 F 1 "GNDA" H 9850 1300 60  0000 C CNN
 F 2 "" H 9850 1450 60  0000 C CNN
 F 3 "" H 9850 1450 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    9850 1450
 	-1   0    0    -1  
 $EndComp
@@ -1045,6 +1251,10 @@ F 0 "#PWR29" H 6600 1800 60  0001 C CNN
 F 1 "GNDA" H 6600 1900 60  0000 C CNN
 F 2 "" H 6600 2050 60  0000 C CNN
 F 3 "" H 6600 2050 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    6600 2050
 	0    -1   -1   0   
 $EndComp
@@ -1056,6 +1266,10 @@ F 0 "#PWR28" H 6300 1800 60  0001 C CNN
 F 1 "GND" H 6300 1900 60  0000 C CNN
 F 2 "" H 6300 2050 60  0000 C CNN
 F 3 "" H 6300 2050 60  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    6300 2050
 	0    1    1    0   
 $EndComp
@@ -1067,6 +1281,10 @@ F 0 "R1" V 6350 2050 50  0000 C CNN
 F 1 "100M" V 6450 2050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 6380 2050 30  0001 C CNN
 F 3 "" H 6450 2050 30  0000 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
+F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    6450 2050
 	0    1    1    0   
 $EndComp
