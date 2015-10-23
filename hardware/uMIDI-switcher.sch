@@ -78,11 +78,12 @@ P 5900 5300
 F 0 "C10" H 5950 5400 50  0000 L CNN
 F 1 "100n" H 5950 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 5938 5150 30  0001 C CNN
-F 3 "" H 5900 5300 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 5950 5400 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    5900 5300
 	1    0    0    -1  
 $EndComp
@@ -93,11 +94,12 @@ P 4900 5300
 F 0 "C9" H 4950 5400 50  0000 L CNN
 F 1 "100n" H 4950 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 4938 5150 30  0001 C CNN
-F 3 "" H 4900 5300 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 4950 5400 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4900 5300
 	1    0    0    -1  
 $EndComp
@@ -168,11 +170,12 @@ P 1600 5100
 F 0 "U1" H 1400 5300 40  0000 C CNN
 F 1 "MC7809CD" H 1600 5300 40  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 1600 5300 30  0001 C CIN
-F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1600 5100 60  0001 C CNN
-F 4 "Mouser" H 5400 5100 60  0001 C CNN "Supplier"
-F 5 "863-MC7809CD2TG " H 5400 5100 60  0001 C CNN "Part Number"
-F 6 "ON Semiconductor" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "MC7809CD2TG" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1400 5300 60  0001 C CNN
+F 4 "Mouser" H 1400 5300 60  0001 C CNN "Supplier"
+F 5 "863-MC7809CD2TG" H 1400 5300 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/ON-Semiconductor/MC7809CD2TG/?qs=%2fha2pyFaduirlRo6%252b6i1uMvVNFngtSJ1eHWtI%2fIMkDq4igjKaFxhjA%3d%3d" H 1400 5300 60  0001 C CNN "Supplier Link"
+F 7 "ON Semiconductor" H 1400 5300 60  0001 C CNN "Manufacturer"
+F 8 "MC7809CD2TG" H 1400 5300 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 5100
 	1    0    0    -1  
 $EndComp
@@ -183,11 +186,12 @@ P 2100 5300
 F 0 "C4" H 2150 5400 50  0000 L CNN
 F 1 "100n" H 2150 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2138 5150 30  0001 C CNN
-F 3 "" H 2100 5300 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 2150 5400 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 5300
 	1    0    0    -1  
 $EndComp
@@ -198,11 +202,12 @@ P 1100 5300
 F 0 "C1" H 1150 5400 50  0000 L CNN
 F 1 "100n" H 1150 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1138 5150 30  0001 C CNN
-F 3 "" H 1100 5300 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 1150 5400 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 5300
 	1    0    0    -1  
 $EndComp
@@ -317,12 +322,14 @@ U 1 1 55B77F88
 P 3850 5300
 F 0 "C7" H 3900 5400 50  0000 L CNN
 F 1 "10u" H 3900 5200 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206" H 3888 5150 30  0001 C CNN
-F 3 "" H 3850 5300 60  0000 C CNN
-F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 2 "Capacitors_SMD:C_0805" H 3888 5150 30  0001 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM21BR61E106KA73%23.pdf" H 3900 5400 60  0001 C CNN
+F 4 "Mouser" H 3900 5400 60  0001 C CNN "Supplier"
+F 5 "81-GRM21BR61E106KA3L" H 3900 5400 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM21BR61E106KA73L/?qs=sGAEpiMZZMs0AnBnWHyRQEM2qvC6XUvU2imHfdddTY8%3d" H 3900 5400 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3900 5400 60  0001 C CNN "Manufacturer"
+F 8 "GRM21BR61E106KA73L" H 3900 5400 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://psearch.en.murata.com/capacitor/lineup/grm/" H 3900 5400 60  0001 C CNN "Manufacturer Link"
 	1    3850 5300
 	1    0    0    -1  
 $EndComp
@@ -363,11 +370,12 @@ P 2100 6250
 F 0 "C5" H 2150 6350 50  0000 L CNN
 F 1 "100n" H 2150 6150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2138 6100 30  0001 C CNN
-F 3 "" H 2100 6250 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 2150 6350 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 6250
 	1    0    0    -1  
 $EndComp
@@ -378,11 +386,12 @@ P 1100 6250
 F 0 "C2" H 1150 6350 50  0000 L CNN
 F 1 "100n" H 1150 6150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1138 6100 30  0001 C CNN
-F 3 "" H 1100 6250 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 1150 6350 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 6250
 	1    0    0    -1  
 $EndComp
@@ -483,11 +492,12 @@ P 2100 7200
 F 0 "C6" H 2150 7300 50  0000 L CNN
 F 1 "100n" H 2150 7100 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 2138 7050 30  0001 C CNN
-F 3 "" H 2100 7200 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 2150 7300 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2100 7200
 	1    0    0    -1  
 $EndComp
@@ -498,11 +508,12 @@ P 1100 7200
 F 0 "C3" H 1150 7300 50  0000 L CNN
 F 1 "100n" H 1150 7100 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1138 7050 30  0001 C CNN
-F 3 "" H 1100 7200 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 1150 7300 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    1100 7200
 	1    0    0    -1  
 $EndComp
@@ -680,11 +691,13 @@ P 4350 1950
 F 0 "X6" H 4350 2500 50  0000 C CNN
 F 1 "uMIDI GPIO" V 4450 1950 50  0000 C CNN
 F 2 "Connect:VASCH5x2" H 4350 1950 60  0001 C CNN
-F 3 "" H 4350 1950 60  0000 C CNN
-F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://multimedia.3m.com/mws/media/22504O/3mtm-100-in-loprof-hdr-100x-100strt-ra-4-wall-ts0818.pdf" H 4350 2500 60  0001 C CNN
+F 4 "Mouser" H 4350 2500 60  0001 C CNN "Supplier"
+F 5 "517-30310-6002" H 4350 2500 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/30310-6002HB/?qs=sGAEpiMZZMs%252bGHln7q6pmwu5ra4CY41iHF1AQhwXwqM%3d" H 4350 2500 60  0001 C CNN "Supplier Link"
+F 7 "3M Electronic Solutions Division" H 4350 2500 60  0001 C CNN "Manufacturer"
+F 8 "" H 4350 2500 60  0001 C CNN "Manufacturer Part Number"
+F 9 "30310-6002HB" H 4350 2500 60  0001 C CNN "Manufacturer Link"
 	1    4350 1950
 	-1   0    0    -1  
 $EndComp
@@ -727,11 +740,12 @@ P 7100 5300
 F 0 "C12" H 6900 5400 50  0000 L CNN
 F 1 "100n" H 6850 5200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 7138 5150 30  0001 C CNN
-F 3 "" H 7100 5300 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 6900 5400 60  0001 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7100 5300
 	1    0    0    -1  
 $EndComp
@@ -747,11 +761,12 @@ P 3650 5050
 F 0 "D1" H 3600 4950 50  0000 L CNN
 F 1 "B160" H 3550 5150 50  0000 L CNN
 F 2 "Diodes_SMD:SMA_Standard" V 3650 5050 60  0001 C CNN
-F 3 "http://www.mouser.com/ds/2/115/ds13002-60388.pdf" V 3650 5050 60  0001 C CNN
-F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "621-B160-F" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "Diodes Incorporated" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "B160-13-F" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.diodes.com/_files/datasheets/ds13002.pdf" H 3600 4950 60  0001 C CNN
+F 4 "Mouser" H 3600 4950 60  0001 C CNN "Supplier"
+F 5 "621-B160-F" H 3600 4950 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Diodes-Incorporated/B160-13-F/?qs=sGAEpiMZZMtQ8nqTKtFS%2fKHDuEI9vWaqnxWdXZaW6Wg%3d" H 3600 4950 60  0001 C CNN "Supplier Link"
+F 7 "Diodes Incorporated" H 3600 4950 60  0001 C CNN "Manufacturer"
+F 8 "B160-13-F" H 3600 4950 60  0001 C CNN "Manufacturer Part Number"
 	1    3650 5050
 	-1   0    0    1   
 $EndComp
@@ -780,12 +795,14 @@ U 1 1 55FECDD5
 P 4550 5300
 F 0 "C8" H 4600 5400 50  0000 L CNN
 F 1 "10u" H 4600 5200 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206" H 4588 5150 30  0001 C CNN
-F 3 "" H 4550 5300 60  0000 C CNN
-F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 2 "Capacitors_SMD:C_0805" H 4588 5150 30  0001 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM21BR61E106KA73%23.pdf" H 4600 5400 60  0001 C CNN
+F 4 "Mouser" H 4600 5400 60  0001 C CNN "Supplier"
+F 5 "81-GRM21BR61E106KA3L" H 4600 5400 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM21BR61E106KA73L/?qs=sGAEpiMZZMs0AnBnWHyRQEM2qvC6XUvU2imHfdddTY8%3d" H 4600 5400 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 4600 5400 60  0001 C CNN "Manufacturer"
+F 8 "GRM21BR61E106KA73L" H 4600 5400 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://psearch.en.murata.com/capacitor/lineup/grm/" H 4600 5400 60  0001 C CNN "Manufacturer Link"
 	1    4550 5300
 	1    0    0    -1  
 $EndComp
@@ -795,12 +812,14 @@ U 1 1 55FED0DF
 P 6250 5300
 F 0 "C11" H 6300 5400 50  0000 L CNN
 F 1 "10u" H 6300 5200 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206" H 6288 5150 30  0001 C CNN
-F 3 "" H 6250 5300 60  0000 C CNN
-F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 2 "Capacitors_SMD:C_0805" H 6288 5150 30  0001 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM21BR61E106KA73%23.pdf" H 6300 5400 60  0001 C CNN
+F 4 "Mouser" H 6300 5400 60  0001 C CNN "Supplier"
+F 5 "81-GRM21BR61E106KA3L" H 6300 5400 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM21BR61E106KA73L/?qs=sGAEpiMZZMs0AnBnWHyRQEM2qvC6XUvU2imHfdddTY8%3d" H 6300 5400 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 6300 5400 60  0001 C CNN "Manufacturer"
+F 8 "GRM21BR61E106KA73L" H 6300 5400 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://psearch.en.murata.com/capacitor/lineup/grm/" H 6300 5400 60  0001 C CNN "Manufacturer Link"
 	1    6250 5300
 	1    0    0    -1  
 $EndComp
@@ -856,11 +875,12 @@ P 1600 6050
 F 0 "U2" H 1400 6250 40  0000 C CNN
 F 1 "MC7809CD" H 1600 6250 40  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 1600 6250 30  0001 C CIN
-F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1600 6050 60  0001 C CNN
-F 4 "Mouser" H 5400 5100 60  0001 C CNN "Supplier"
-F 5 "863-MC7809CD2TG " H 5400 5100 60  0001 C CNN "Part Number"
-F 6 "ON Semiconductor" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "MC7809CD2TG" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1400 6250 60  0001 C CNN
+F 4 "Mouser" H 1400 6250 60  0001 C CNN "Supplier"
+F 5 "863-MC7809CD2TG" H 1400 6250 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/ON-Semiconductor/MC7809CD2TG/?qs=%2fha2pyFaduirlRo6%252b6i1uMvVNFngtSJ1eHWtI%2fIMkDq4igjKaFxhjA%3d%3d" H 1400 6250 60  0001 C CNN "Supplier Link"
+F 7 "ON Semiconductor" H 1400 6250 60  0001 C CNN "Manufacturer"
+F 8 "MC7809CD2TG" H 1400 6250 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 6050
 	1    0    0    -1  
 $EndComp
@@ -871,11 +891,12 @@ P 1600 7000
 F 0 "U3" H 1400 7200 40  0000 C CNN
 F 1 "MC7809CD" H 1600 7200 40  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 1600 7200 30  0001 C CIN
-F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1600 7000 60  0001 C CNN
-F 4 "Mouser" H 5400 5100 60  0001 C CNN "Supplier"
-F 5 "863-MC7809CD2TG " H 5400 5100 60  0001 C CNN "Part Number"
-F 6 "ON Semiconductor" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "MC7809CD2TG" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 1400 7200 60  0001 C CNN
+F 4 "Mouser" H 1400 7200 60  0001 C CNN "Supplier"
+F 5 "863-MC7809CD2TG" H 1400 7200 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/ON-Semiconductor/MC7809CD2TG/?qs=%2fha2pyFaduirlRo6%252b6i1uMvVNFngtSJ1eHWtI%2fIMkDq4igjKaFxhjA%3d%3d" H 1400 7200 60  0001 C CNN "Supplier Link"
+F 7 "ON Semiconductor" H 1400 7200 60  0001 C CNN "Manufacturer"
+F 8 "MC7809CD2TG" H 1400 7200 60  0001 C CNN "Manufacturer Part Number"
 	1    1600 7000
 	1    0    0    -1  
 $EndComp
@@ -886,11 +907,12 @@ P 5400 5100
 F 0 "U4" H 5200 5300 40  0000 C CNN
 F 1 "MC7809CD" H 5400 5300 40  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 5400 5300 30  0001 C CIN
-F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 5400 5100 60  0001 C CNN
-F 4 "Mouser" H 5400 5100 60  0001 C CNN "Supplier"
-F 5 "863-MC7809CD2TG " H 5400 5100 60  0001 C CNN "Part Number"
-F 6 "ON Semiconductor" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "MC7809CD2TG" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF" H 5200 5300 60  0001 C CNN
+F 4 "Mouser" H 5200 5300 60  0001 C CNN "Supplier"
+F 5 "863-MC7809CD2TG" H 5200 5300 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/ON-Semiconductor/MC7809CD2TG/?qs=%2fha2pyFaduirlRo6%252b6i1uMvVNFngtSJ1eHWtI%2fIMkDq4igjKaFxhjA%3d%3d" H 5200 5300 60  0001 C CNN "Supplier Link"
+F 7 "ON Semiconductor" H 5200 5300 60  0001 C CNN "Manufacturer"
+F 8 "MC7809CD2TG" H 5200 5300 60  0001 C CNN "Manufacturer Part Number"
 	1    5400 5100
 	1    0    0    -1  
 $EndComp
@@ -969,11 +991,12 @@ P 3100 2650
 F 0 "X5" H 2250 4650 60  0000 C CNN
 F 1 "Jack_Stacked" H 2200 2900 60  0000 C CNN
 F 2 "uMIDI-switcher:NSJ12HF-1" H 3100 2650 60  0001 C CNN
-F 3 "" H 3100 2650 60  0000 C CNN
-F 4 "Mouser" H 3100 2650 60  0001 C CNN "Supplier"
-F 5 "568-NSJ12HF-1 " H 3100 2650 60  0001 C CNN "Part Number"
-F 6 "Neutrik" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "NSJ12HF-1" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.neutrik.com/zoolu-website/media/download/2927/Drawing+NSJ12HF-1" H 2250 4650 60  0001 C CNN
+F 4 "Mouser" H 2250 4650 60  0001 C CNN "Supplier"
+F 5 "568-NSJ12HF-1" H 2250 4650 60  0001 C CNN "Supplier Part Number"
+F 6 "http://www.mouser.de/ProductDetail/Neutrik/NSJ12HF-1/?qs=%2fha2pyFaduh94rO%252bidRgYpzOVRjO%2fmX%2foGmQWxGiJcnBKJApPofXWA%3d%3d" H 2250 4650 60  0001 C CNN "Supplier Link"
+F 7 "Neutrik" H 2250 4650 60  0001 C CNN "Manufacturer"
+F 8 "NSJ12HF-1" H 2250 4650 60  0001 C CNN "Manufacturer Part Number"
 	1    3100 2650
 	1    0    0    -1  
 $EndComp
@@ -1050,11 +1073,12 @@ P 8300 2650
 F 0 "X8" H 7450 4650 60  0000 C CNN
 F 1 "Jack_Stacked" H 7400 2900 60  0000 C CNN
 F 2 "uMIDI-switcher:NSJ12HF-1" H 8300 2650 60  0001 C CNN
-F 3 "" H 8300 2650 60  0000 C CNN
-F 4 "Mouser" H 3100 2650 60  0001 C CNN "Supplier"
-F 5 "568-NSJ12HF-1 " H 3100 2650 60  0001 C CNN "Part Number"
-F 6 "Neutrik" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "NSJ12HF-1" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.neutrik.com/zoolu-website/media/download/2927/Drawing+NSJ12HF-1" H 7450 4650 60  0001 C CNN
+F 4 "Mouser" H 7450 4650 60  0001 C CNN "Supplier"
+F 5 "568-NSJ12HF-1" H 7450 4650 60  0001 C CNN "Supplier Part Number"
+F 6 "http://www.mouser.de/ProductDetail/Neutrik/NSJ12HF-1/?qs=%2fha2pyFaduh94rO%252bidRgYpzOVRjO%2fmX%2foGmQWxGiJcnBKJApPofXWA%3d%3d" H 7450 4650 60  0001 C CNN "Supplier Link"
+F 7 "Neutrik" H 7450 4650 60  0001 C CNN "Manufacturer"
+F 8 "NSJ12HF-1" H 7450 4650 60  0001 C CNN "Manufacturer Part Number"
 	1    8300 2650
 	-1   0    0    -1  
 $EndComp
@@ -1280,11 +1304,13 @@ P 6450 2050
 F 0 "R1" V 6350 2050 50  0000 C CNN
 F 1 "100M" V 6450 2050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 6380 2050 30  0001 C CNN
-F 3 "" H 6450 2050 30  0000 C CNN
-F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 6350 2050 60  0001 C CNN
+F 4 "Mouser" H 6350 2050 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603100MJPEA" H 6350 2050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100MJPEAHR/?qs=sGAEpiMZZMu61qfTUdNhGwALI1ohWcNj4pxTQEkdYlc%3d" H 6350 2050 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 6350 2050 60  0001 C CNN "Manufacturer"
+F 8 "CRCW0603100MJPEAHR" H 6350 2050 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 6350 2050 60  0001 C CNN "Manufacturer Link"
 	1    6450 2050
 	0    1    1    0   
 $EndComp

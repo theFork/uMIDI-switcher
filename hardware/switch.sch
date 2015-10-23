@@ -40,9 +40,12 @@ AR Path="/56223B14/54E8DEE8" Ref="Q8"  Part="1"
 F 0 "Q8" H 5400 3201 40  0000 R CNN
 F 1 "BSS138" H 5400 3500 40  0000 R CNN
 F 2 "Housings_SOT-23_SOT-143_TSOT-6:SOT-23" H 5270 3452 29  0001 C CNN
-F 3 "" H 5400 3350 60  0000 C CNN
-F 4 "Mouser" H 7800 4450 60  0001 C CNN "Supplier"
-F 5 "512-BSS138 " H 7800 4450 60  0001 C CNN "Part Number"
+F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 5400 3201 60  0001 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "512-BSS138 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Fairchild-Semiconductor/BSS138/?qs=sGAEpiMZZMshyDBzk1%2fWi1qxDdW%2fXBi2IwQV99jpxW8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Fairchild" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "BSS138" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    5400 3350
 	1    0    0    -1  
 $EndComp
@@ -55,7 +58,13 @@ AR Path="/56223B14/54E8DF2C" Ref="R35"  Part="1"
 F 0 "R35" V 5180 3750 50  0000 C CNN
 F 1 "10k" V 5107 3751 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 5030 3750 30  0001 C CNN
-F 3 "" H 5100 3750 30  0000 C CNN
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 5180 3750 60  0001 C CNN
+F 4 "Mouser" H 5180 3750 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603J-10K-E3" H 5180 3750 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW060310K0JNEA/?qs=sGAEpiMZZMu61qfTUdNhG%2fEx4adfNLScijTXbM5aXyk%3d" H 5180 3750 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 5180 3750 60  0001 C CNN "Manufacturer"
+F 8 "CRCW060310K0JNEA" H 5180 3750 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 5180 3750 60  0001 C CNN "Manufacturer Link"
 	1    5100 3750
 	1    0    0    -1  
 $EndComp
@@ -81,7 +90,12 @@ AR Path="/56223B14/54E8E18C" Ref="C27"  Part="1"
 F 0 "C27" H 4150 2400 50  0000 L CNN
 F 1 "100n" H 4150 2200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 4138 2150 30  0001 C CNN
-F 3 "" H 4100 2300 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 4150 2400 60  0001 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4100 2300
 	1    0    0    -1  
 $EndComp
@@ -107,7 +121,12 @@ AR Path="/56223B14/54E8E27F" Ref="C28"  Part="1"
 F 0 "C28" H 4850 2400 50  0000 L CNN
 F 1 "100n" H 4850 2200 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 4838 2150 30  0001 C CNN
-F 3 "" H 4800 2300 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 4850 2400 60  0001 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    4800 2300
 	1    0    0    -1  
 $EndComp
@@ -159,9 +178,13 @@ AR Path="/56223B14/54E8EB7A" Ref="D9"  Part="1"
 F 0 "D9" H 5300 2400 50  0000 C CNN
 F 1 "1N4148" H 5300 2200 50  0000 C CNN
 F 2 "Diodes_SMD:SOD-123" H 5300 2300 60  0001 C CNN
-F 3 "" H 5300 2300 60  0000 C CNN
-F 4 "Mouser" H 5300 2300 60  0001 C CNN "Supplier"
-F 5 "78-1N4148W-E3-08 " H 5300 2300 60  0001 C CNN "Part Number"
+F 3 "http://www.diodes.com/_files/datasheets/ds30086.pdf" H 5300 2400 60  0001 C CNN
+F 4 "Mouser" H 5300 2400 60  0001 C CNN "Supplier"
+F 5 "621-1N4148W-F" H 5300 2400 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F/?qs=sGAEpiMZZMtoHjESLttvkiKikX2YhTL0GOrSkzAUFgM%3d" H 5300 2400 60  0001 C CNN "Supplier Link"
+F 7 "Diodes Incorporated" H 5300 2400 60  0001 C CNN "Manufacturer"
+F 8 "1N4148W-7-F" H 5300 2400 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.diodes.com/catalog/Switching_Diodes_5/1N4148W_2800" H 5300 2400 60  0001 C CNN "Manufacturer Link"
 	1    5300 2300
 	0    1    1    0   
 $EndComp

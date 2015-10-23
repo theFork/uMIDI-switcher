@@ -61,10 +61,12 @@ AR Path="/56223A7C/54E9BE9F/54D79A29" Ref="REL5"  Part="1"
 F 0 "REL1" H 8050 3500 60  0000 C CNN
 F 1 "Omron G6K-2P-5VCD" H 8050 3600 60  0000 C CNN
 F 2 "uMIDI-switcher:Omron_G6K-2P" H 8050 3300 60  0001 C CNN
-F 3 "" H 8050 3300 60  0000 C CNN
-F 4 "Mouser" H 8050 3300 60  0001 C CNN "Supplier"
-F 5 "653-G6K-2P-DC5" H 8050 3300 60  0001 C CNN "Part Number"
-F 6 "http://www.mouser.de/ProductDetail/Omron-Electronics/G6K-2P-DC5/?qs=sGAEpiMZZMs3UE%252bXNiFaVBrMwKMEuUpxYUmZBiw8UvA%3d" H 8050 3300 60  0001 C CNN "Link"
+F 3 "https://www.omron.com/ecb/products/pdf/en-g6k.pdf" H 8050 3500 60  0001 C CNN
+F 4 "Mouser" H 8050 3500 60  0001 C CNN "Supplier"
+F 5 "653-G6K-2P-Y-DC5" H 8050 3500 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Omron-Electronics/G6K-2P-Y-DC5/?qs=sGAEpiMZZMs3UE%252bXNiFaVELplwtkvP6Y68aMqtMDJ8w%3d" H 8050 3500 60  0001 C CNN "Supplier Link"
+F 7 "Omron" H 8050 3500 60  0001 C CNN "Manufacturer"
+F 8 "G6K-2P-Y-DC5" H 8050 3500 60  0001 C CNN "Manufacturer Part Number"
 	1    8050 3300
 	0    1    1    0   
 $EndComp
@@ -94,10 +96,12 @@ AR Path="/56223A7C/54E9BE9F/54D79A79" Ref="REL5"  Part="2"
 F 0 "REL1" H 3700 4000 60  0000 C CNN
 F 1 "Omron G6K-2P-5VCD" H 3700 3500 60  0001 C CNN
 F 2 "uMIDI-switcher:Omron_G6K-2P" H 3700 3800 60  0001 C CNN
-F 3 "" H 3700 3800 60  0000 C CNN
-F 4 "Mouser" H 8050 3300 60  0001 C CNN "Supplier"
-F 5 "653-G6K-2P-DC5" H 8050 3300 60  0001 C CNN "Part Number"
-F 6 "http://www.mouser.de/ProductDetail/Omron-Electronics/G6K-2P-DC5/?qs=sGAEpiMZZMs3UE%252bXNiFaVBrMwKMEuUpxYUmZBiw8UvA%3d" H 8050 3300 60  0001 C CNN "Link"
+F 3 "https://www.omron.com/ecb/products/pdf/en-g6k.pdf" H 3700 4000 60  0001 C CNN
+F 4 "Mouser" H 3700 4000 60  0001 C CNN "Supplier"
+F 5 "653-G6K-2P-Y-DC5" H 3700 4000 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Omron-Electronics/G6K-2P-Y-DC5/?qs=sGAEpiMZZMs3UE%252bXNiFaVELplwtkvP6Y68aMqtMDJ8w%3d" H 3700 4000 60  0001 C CNN "Supplier Link"
+F 7 "Omron" H 3700 4000 60  0001 C CNN "Manufacturer"
+F 8 "G6K-2P-Y-DC5" H 3700 4000 60  0001 C CNN "Manufacturer Part Number"
 	2    3700 3800
 	1    0    0    1   
 $EndComp
@@ -127,10 +131,12 @@ AR Path="/56223A7C/54E9BE9F/54D79AAA" Ref="REL5"  Part="3"
 F 0 "REL1" H 5200 4000 60  0000 C CNN
 F 1 "Omron G6K-2P-5VCD" H 4850 4150 60  0001 C CNN
 F 2 "uMIDI-switcher:Omron_G6K-2P" H 5200 3800 60  0001 C CNN
-F 3 "" H 5200 3800 60  0000 C CNN
-F 4 "Mouser" H 8050 3300 60  0001 C CNN "Supplier"
-F 5 "653-G6K-2P-DC5" H 8050 3300 60  0001 C CNN "Part Number"
-F 6 "http://www.mouser.de/ProductDetail/Omron-Electronics/G6K-2P-DC5/?qs=sGAEpiMZZMs3UE%252bXNiFaVBrMwKMEuUpxYUmZBiw8UvA%3d" H 8050 3300 60  0001 C CNN "Link"
+F 3 "https://www.omron.com/ecb/products/pdf/en-g6k.pdf" H 5200 4000 60  0001 C CNN
+F 4 "Mouser" H 5200 4000 60  0001 C CNN "Supplier"
+F 5 "653-G6K-2P-Y-DC5" H 5200 4000 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Omron-Electronics/G6K-2P-Y-DC5/?qs=sGAEpiMZZMs3UE%252bXNiFaVELplwtkvP6Y68aMqtMDJ8w%3d" H 5200 4000 60  0001 C CNN "Supplier Link"
+F 7 "Omron" H 5200 4000 60  0001 C CNN "Manufacturer"
+F 8 "G6K-2P-Y-DC5" H 5200 4000 60  0001 C CNN "Manufacturer Part Number"
 	3    5200 3800
 	-1   0    0    1   
 $EndComp
@@ -159,7 +165,13 @@ AR Path="/56223A90/54E9BE9F/54D79DA0" Ref="R27"  Part="1"
 F 0 "R2" V 4100 4150 50  0000 C CNN
 F 1 "100M" V 4200 4150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 4130 4150 30  0001 C CNN
-F 3 "" H 4200 4150 30  0000 C CNN
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 4100 4150 60  0001 C CNN
+F 4 "Mouser" H 4100 4150 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603100MJPEA" H 4100 4150 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100MJPEAHR/?qs=sGAEpiMZZMu61qfTUdNhGwALI1ohWcNj4pxTQEkdYlc%3d" H 4100 4150 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 4100 4150 60  0001 C CNN "Manufacturer"
+F 8 "CRCW0603100MJPEAHR" H 4100 4150 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 4100 4150 60  0001 C CNN "Manufacturer Link"
 	1    4200 4150
 	1    0    0    -1  
 $EndComp
@@ -190,9 +202,13 @@ AR Path="/56223A90/54E9BE9F/54D7A6A7" Ref="D7"  Part="1"
 F 0 "D2" H 7750 3400 50  0000 C CNN
 F 1 "1N4148" H 7750 3200 50  0000 C CNN
 F 2 "Diodes_SMD:SOD-123" H 7750 3300 60  0001 C CNN
-F 3 "" H 7750 3300 60  0000 C CNN
-F 4 "Mouser" H 7750 3300 60  0001 C CNN "Supplier"
-F 5 "78-1N4148W-E3-08" H 7750 3300 60  0001 C CNN "Part Number"
+F 3 "http://www.diodes.com/_files/datasheets/ds30086.pdf" H 7750 3400 60  0001 C CNN
+F 4 "Mouser" H 7750 3400 60  0001 C CNN "Supplier"
+F 5 "621-1N4148W-F" H 7750 3400 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F/?qs=sGAEpiMZZMtoHjESLttvkiKikX2YhTL0GOrSkzAUFgM%3d" H 7750 3400 60  0001 C CNN "Supplier Link"
+F 7 "Diodes Incorporated" H 7750 3400 60  0001 C CNN "Manufacturer"
+F 8 "1N4148W-7-F" H 7750 3400 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.diodes.com/catalog/Switching_Diodes_5/1N4148W_2800" H 7750 3400 60  0001 C CNN "Manufacturer Link"
 	1    7750 3300
 	0    1    1    0   
 $EndComp
@@ -242,7 +258,12 @@ AR Path="/56223A90/54E9BE9F/54D7AAB4" Ref="C23"  Part="1"
 F 0 "C13" H 6650 3350 50  0000 L CNN
 F 1 "100n" H 6650 3150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6638 3100 30  0001 C CNN
-F 3 "" H 6600 3250 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 6650 3350 60  0001 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    6600 3250
 	1    0    0    -1  
 $EndComp
@@ -279,7 +300,13 @@ AR Path="/56223A90/54E9BE9F/54D7ADF3" Ref="R31"  Part="1"
 F 0 "R6" V 7580 4600 50  0000 C CNN
 F 1 "10k" V 7507 4601 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 7430 4600 30  0001 C CNN
-F 3 "" H 7500 4600 30  0000 C CNN
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 7580 4600 60  0001 C CNN
+F 4 "Mouser" H 7580 4600 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603J-10K-E3" H 7580 4600 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW060310K0JNEA/?qs=sGAEpiMZZMu61qfTUdNhG%2fEx4adfNLScijTXbM5aXyk%3d" H 7580 4600 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 7580 4600 60  0001 C CNN "Manufacturer"
+F 8 "CRCW060310K0JNEA" H 7580 4600 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 7580 4600 60  0001 C CNN "Manufacturer Link"
 	1    7500 4600
 	1    0    0    -1  
 $EndComp
@@ -296,9 +323,12 @@ AR Path="/56223A90/54E9BE9F/54D7AECB" Ref="Q6"  Part="1"
 F 0 "Q1" H 7800 4101 40  0000 R CNN
 F 1 "BSS138" H 7800 4400 40  0000 R CNN
 F 2 "Housings_SOT-23_SOT-143_TSOT-6:SOT-23" H 7670 4352 29  0001 C CNN
-F 3 "" H 7800 4250 60  0000 C CNN
-F 4 "Mouser" H 7800 4250 60  0001 C CNN "Supplier"
-F 5 "512-BSS138 " H 7800 4250 60  0001 C CNN "Part Number"
+F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 7800 4101 60  0001 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "512-BSS138 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Fairchild-Semiconductor/BSS138/?qs=sGAEpiMZZMshyDBzk1%2fWi1qxDdW%2fXBi2IwQV99jpxW8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Fairchild" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "BSS138" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7800 4250
 	1    0    0    -1  
 $EndComp
@@ -356,7 +386,12 @@ AR Path="/56223A90/54E9BE9F/54D7C874" Ref="C24"  Part="1"
 F 0 "C14" H 7350 3350 50  0000 L CNN
 F 1 "100n" H 7350 3150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 7338 3100 30  0001 C CNN
-F 3 "" H 7300 3250 60  0000 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM188R71E104KA01%23.pdf" H 7350 3350 60  0001 C CNN
+F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
+F 5 "81-GRM39X104K25 " H 3650 5050 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R71E104KA01D/?qs=sGAEpiMZZMs0AnBnWHyRQNOmsPzkISN0CS9R%252buxD0A8%3d" H 3650 5050 60  0001 C CNN "Supplier Link"
+F 7 "Murata" H 3650 5050 60  0001 C CNN "Manufacturer"
+F 8 "GRM188R71E104KA01D" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7300 3250
 	1    0    0    -1  
 $EndComp
@@ -429,7 +464,13 @@ AR Path="/56223A90/54E9BE9F/55F44BB0" Ref="R28"  Part="1"
 F 0 "R3" V 4350 4150 50  0000 C CNN
 F 1 "100M" V 4450 4150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 4380 4150 30  0001 C CNN
-F 3 "" H 4450 4150 30  0000 C CNN
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 4350 4150 60  0001 C CNN
+F 4 "Mouser" H 4350 4150 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603100MJPEA" H 4350 4150 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100MJPEAHR/?qs=sGAEpiMZZMu61qfTUdNhGwALI1ohWcNj4pxTQEkdYlc%3d" H 4350 4150 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 4350 4150 60  0001 C CNN "Manufacturer"
+F 8 "CRCW0603100MJPEAHR" H 4350 4150 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 4350 4150 60  0001 C CNN "Manufacturer Link"
 	1    4450 4150
 	1    0    0    -1  
 $EndComp
@@ -446,7 +487,13 @@ AR Path="/56223A90/54E9BE9F/55F44BF3" Ref="R29"  Part="1"
 F 0 "R4" V 4600 4150 50  0000 C CNN
 F 1 "100M" V 4700 4150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 4630 4150 30  0001 C CNN
-F 3 "" H 4700 4150 30  0000 C CNN
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 4600 4150 60  0001 C CNN
+F 4 "Mouser" H 4600 4150 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603100MJPEA" H 4600 4150 60  0001 C CNN "Supplier Part Number"
+F 6 "http://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100MJPEAHR/?qs=sGAEpiMZZMu61qfTUdNhGwALI1ohWcNj4pxTQEkdYlc%3d" H 4600 4150 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 4600 4150 60  0001 C CNN "Manufacturer"
+F 8 "CRCW0603100MJPEAHR" H 4600 4150 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 4600 4150 60  0001 C CNN "Manufacturer Link"
 	1    4700 4150
 	1    0    0    -1  
 $EndComp

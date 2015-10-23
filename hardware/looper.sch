@@ -48,10 +48,12 @@ AR Path="/56223A90/54E9CF0E" Ref="X13"  Part="1"
 F 0 "X13" H 5900 5250 60  0000 C CNN
 F 1 "Jack_Stacked" H 5850 3500 60  0000 C CNN
 F 2 "uMIDI-switcher:NSJ12HF-1" H 6750 3250 60  0001 C CNN
-F 3 "" H 6750 3250 60  0000 C CNN
-F 4 "Mouser" H 3150 2550 60  0001 C CNN "Supplier"
-F 5 "568-NSJ12HF-1 " H 3150 2550 60  0001 C CNN "Part Number"
-F 6 "http://www.mouser.de/ProductDetail/Neutrik/NSJ12HF-1/?qs=%2fha2pyFaduh94rO%252bidRgYpzOVRjO%2fmX%2foGmQWxGiJcnBKJApPofXWA%3d%3d" H 3150 2550 60  0001 C CNN "Link"
+F 3 "http://www.neutrik.com/zoolu-website/media/download/2927/Drawing+NSJ12HF-1" H 5900 5250 60  0001 C CNN
+F 4 "Mouser" H 5900 5250 60  0001 C CNN "Supplier"
+F 5 "568-NSJ12HF-1" H 5900 5250 60  0001 C CNN "Supplier Part Number"
+F 6 "http://www.mouser.de/ProductDetail/Neutrik/NSJ12HF-1/?qs=%2fha2pyFaduh94rO%252bidRgYpzOVRjO%2fmX%2foGmQWxGiJcnBKJApPofXWA%3d%3d" H 5900 5250 60  0001 C CNN "Supplier Link"
+F 7 "Neutrik" H 5900 5250 60  0001 C CNN "Manufacturer"
+F 8 "NSJ12HF-1" H 5900 5250 60  0001 C CNN "Manufacturer Part Number"
 	1    6750 3250
 	1    0    0    -1  
 $EndComp
