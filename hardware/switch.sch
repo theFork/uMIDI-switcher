@@ -106,9 +106,15 @@ P 4450 2000
 AR Path="/56223B06/54E8E1C0" Ref="R32"  Part="1" 
 AR Path="/56223B14/54E8E1C0" Ref="R34"  Part="1" 
 F 0 "R34" V 4530 2000 50  0000 C CNN
-F 1 "TBD" V 4457 2001 50  0000 C CNN
+F 1 "180" V 4457 2001 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 4380 2000 30  0001 C CNN
-F 3 "" H 4450 2000 30  0000 C CNN
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 4530 2000 60  0001 C CNN
+F 4 "Mouser" H 4530 2000 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603J-180-E3 " H 4530 2000 60  0001 C CNN "Supplier Part Number"
+F 6 "http://www.mouser.de/ProductDetail/Vishay-Dale/CRCW0603180RJNEA/?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GH6igdLd9ZmA%3d" H 4530 2000 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 4530 2000 60  0001 C CNN "Manufacturer"
+F 8 "CRCW0603180RJNEA" H 4530 2000 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 4530 2000 60  0001 C CNN "Manufacturer Link"
 	1    4450 2000
 	0    1    1    0   
 $EndComp

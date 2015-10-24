@@ -367,9 +367,15 @@ AR Path="/56223A6E/54E9BE9F/54D7C711" Ref="R20"  Part="1"
 AR Path="/56223A7C/54E9BE9F/54D7C711" Ref="R25"  Part="1" 
 AR Path="/56223A90/54E9BE9F/54D7C711" Ref="R30"  Part="1" 
 F 0 "R5" V 6850 3000 50  0000 C CNN
-F 1 "TBD" V 6957 3001 50  0000 C CNN
+F 1 "180" V 6957 3001 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 6880 3000 30  0001 C CNN
-F 3 "" H 6950 3000 30  0000 C CNN
+F 3 "http://www.vishay.com/docs/20022/dcrcwhe3.pdf" H 6850 3000 60  0001 C CNN
+F 4 "Mouser" H 6850 3000 60  0001 C CNN "Supplier"
+F 5 "71-CRCW0603J-180-E3 " H 6850 3000 60  0001 C CNN "Supplier Part Number"
+F 6 "http://www.mouser.de/ProductDetail/Vishay-Dale/CRCW0603180RJNEA/?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GH6igdLd9ZmA%3d" H 6850 3000 60  0001 C CNN "Supplier Link"
+F 7 "Vishay/Dale" H 6850 3000 60  0001 C CNN "Manufacturer"
+F 8 "CRCW0603180RJNEA" H 6850 3000 60  0001 C CNN "Manufacturer Part Number"
+F 9 "http://www.vishay.com/resistors-fixed/list/product-20011/" H 6850 3000 60  0001 C CNN "Manufacturer Link"
 	1    6950 3000
 	0    1    1    0   
 $EndComp
