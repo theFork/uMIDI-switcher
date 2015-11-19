@@ -696,8 +696,7 @@ F 4 "Mouser" H 4350 2500 60  0001 C CNN "Supplier"
 F 5 "517-30310-6002" H 4350 2500 60  0001 C CNN "Supplier Part Number"
 F 6 "http://eu.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/30310-6002HB/?qs=sGAEpiMZZMs%252bGHln7q6pmwu5ra4CY41iHF1AQhwXwqM%3d" H 4350 2500 60  0001 C CNN "Supplier Link"
 F 7 "3M Electronic Solutions Division" H 4350 2500 60  0001 C CNN "Manufacturer"
-F 8 "" H 4350 2500 60  0001 C CNN "Manufacturer Part Number"
-F 9 "30310-6002HB" H 4350 2500 60  0001 C CNN "Manufacturer Link"
+F 8 "30310-6002HB" H 4350 2500 60  0001 C CNN "Manufacturer Part Number"
 	1    4350 1950
 	-1   0    0    -1  
 $EndComp
