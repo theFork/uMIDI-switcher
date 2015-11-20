@@ -257,17 +257,14 @@ F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_01X02 X1
+L CONN_01X02 X10
 U 1 1 55B757F4
 P 2650 5100
-F 0 "X1" H 2650 5250 50  0000 C CNN
+F 0 "X10" H 2650 5250 50  0000 C CNN
 F 1 "CONN_01X02" V 2750 5100 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2650 5100 60  0001 C CNN
 F 3 "" H 2650 5100 60  0000 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2650 5100
 	1    0    0    -1  
 $EndComp
@@ -287,17 +284,14 @@ F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_01X02 X4
+L CONN_01X02 X8
 U 1 1 55B76CFF
 P 2950 5100
-F 0 "X4" H 2950 5250 50  0000 C CNN
-F 1 "CONN_01X02" V 3050 5100 50  0001 C CNN
+F 0 "X8" H 2950 5250 50  0000 C CNN
+F 1 "12V in" V 3050 5100 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2950 5100 60  0001 C CNN
 F 3 "" H 2950 5100 60  0000 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2950 5100
 	-1   0    0    -1  
 $EndComp
@@ -441,17 +435,14 @@ F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_01X02 X2
+L CONN_01X02 X11
 U 1 1 55F436A4
 P 2650 6050
-F 0 "X2" H 2650 6200 50  0000 C CNN
+F 0 "X11" H 2650 6200 50  0000 C CNN
 F 1 "CONN_01X02" V 2750 6050 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2650 6050 60  0001 C CNN
 F 3 "" H 2650 6050 60  0000 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2650 6050
 	1    0    0    -1  
 $EndComp
@@ -563,17 +554,14 @@ F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_01X02 X3
+L CONN_01X02 X12
 U 1 1 55F437D1
 P 2650 7000
-F 0 "X3" H 2650 7150 50  0000 C CNN
+F 0 "X12" H 2650 7150 50  0000 C CNN
 F 1 "CONN_01X02" V 2750 7000 50  0001 C CNN
 F 2 "Connect:PINHEAD1-2" H 2650 7000 60  0001 C CNN
 F 3 "" H 2650 7000 60  0000 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    2650 7000
 	1    0    0    -1  
 $EndComp
@@ -685,10 +673,10 @@ Wire Wire Line
 Wire Wire Line
 	3850 5500 3850 5450
 $Comp
-L CONN_01X10 X6
+L CONN_01X10 X13
 U 1 1 55FDA32A
 P 4350 1950
-F 0 "X6" H 4350 2500 50  0000 C CNN
+F 0 "X13" H 4350 2500 50  0000 C CNN
 F 1 "uMIDI GPIO" V 4450 1950 50  0000 C CNN
 F 2 "Connect:VASCH5x2" H 4350 1950 60  0001 C CNN
 F 3 "http://multimedia.3m.com/mws/media/22504O/3mtm-100-in-loprof-hdr-100x-100strt-ra-4-wall-ts0818.pdf" H 4350 2500 60  0001 C CNN
@@ -701,17 +689,14 @@ F 8 "30310-6002HB" H 4350 2500 60  0001 C CNN "Manufacturer Part Number"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L CONN_01X02 X7
+L CONN_01X02 X9
 U 1 1 55FDF236
 P 7550 5250
-F 0 "X7" H 7550 5400 50  0000 C CNN
+F 0 "X9" H 7550 5400 50  0000 C CNN
 F 1 "uMIDI Power" V 7650 5250 50  0000 C CNN
 F 2 "Connect:PINHEAD1-2" H 7550 5250 60  0001 C CNN
 F 3 "" H 7550 5250 60  0000 C CNN
 F 4 "Mouser" H 3650 5050 60  0001 C CNN "Supplier"
-F 5 "" H 3650 5050 60  0001 C CNN "Part Number"
-F 6 "" H 3650 5050 60  0001 C CNN "Manufacturer"
-F 7 "" H 3650 5050 60  0001 C CNN "Manufacturer Part Number"
 	1    7550 5250
 	1    0    0    -1  
 $EndComp
@@ -984,10 +969,10 @@ F3 "Loop_In" I L 2550 3500 60
 F4 "Loop_Out" O R 3550 3500 60 
 $EndSheet
 $Comp
-L Jack_Stacked X5
+L Jack_Stacked X1
 U 1 1 56223AA2
 P 3100 2650
-F 0 "X5" H 2250 4650 60  0000 C CNN
+F 0 "X1" H 2250 4650 60  0000 C CNN
 F 1 "Jack_Stacked" H 2200 2900 60  0000 C CNN
 F 2 "uMIDI-switcher:NSJ12HF-1" H 3100 2650 60  0001 C CNN
 F 3 "http://www.neutrik.com/zoolu-website/media/download/2927/Drawing+NSJ12HF-1" H 2250 4650 60  0001 C CNN
@@ -1066,10 +1051,10 @@ Wire Wire Line
 	1650 2000 1550 2000
 Connection ~ 1550 2000
 $Comp
-L Jack_Stacked X8
+L Jack_Stacked X7
 U 1 1 56223ACE
 P 8300 2650
-F 0 "X8" H 7450 4650 60  0000 C CNN
+F 0 "X7" H 7450 4650 60  0000 C CNN
 F 1 "Jack_Stacked" H 7400 2900 60  0000 C CNN
 F 2 "uMIDI-switcher:NSJ12HF-1" H 8300 2650 60  0001 C CNN
 F 3 "http://www.neutrik.com/zoolu-website/media/download/2927/Drawing+NSJ12HF-1" H 7450 4650 60  0001 C CNN
