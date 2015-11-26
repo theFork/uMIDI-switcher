@@ -15,7 +15,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 14
+Sheet 3 14
 Title ""
 Date ""
 Rev ""
@@ -45,7 +45,7 @@ AR Path="/56223A60/54E9CF0E" Ref="X4"  Part="1"
 AR Path="/56223A6E/54E9CF0E" Ref="X5"  Part="1" 
 AR Path="/56223A7C/54E9CF0E" Ref="X6"  Part="1" 
 AR Path="/56223A90/54E9CF0E" Ref="X2"  Part="1" 
-F 0 "X4" H 5900 5250 60  0000 C CNN
+F 0 "X3" H 5900 5250 60  0000 C CNN
 F 1 "Jack_Stacked" H 5850 3500 60  0000 C CNN
 F 2 "uMIDI-switcher:NSJ12HF-1" H 6750 3250 60  0001 C CNN
 F 3 "http://www.neutrik.com/zoolu-website/media/download/2927/Drawing+NSJ12HF-1" H 5900 5250 60  0001 C CNN
@@ -109,7 +109,7 @@ AR Path="/56223A60/54EA1A07" Ref="#PWR047"  Part="1"
 AR Path="/56223A6E/54EA1A07" Ref="#PWR054"  Part="1" 
 AR Path="/56223A7C/54EA1A07" Ref="#PWR061"  Part="1" 
 AR Path="/56223A90/54EA1A07" Ref="#PWR068"  Part="1" 
-F 0 "#PWR047" H 5100 3050 60  0001 C CNN
+F 0 "#PWR040" H 5100 3050 60  0001 C CNN
 F 1 "GNDA" H 5100 3150 60  0000 C CNN
 F 2 "" H 5100 3300 60  0000 C CNN
 F 3 "" H 5100 3300 60  0000 C CNN
