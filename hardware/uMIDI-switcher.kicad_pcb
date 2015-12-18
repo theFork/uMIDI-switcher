@@ -6634,4 +6634,19 @@
       )
     )
   )
+  (zone (net 0) (net_name "") (layer B.SilkS) (tstamp 0) (hatch edge 0.508)
+    (connect_pads (clearance 0.4))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 95.5 120) (xy 117 120) (xy 117 126) (xy 95.5 126)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 116.873 125.873) (xy 95.627 125.873) (xy 95.627 120.127) (xy 116.873 120.127)
+      )
+    )
+  )
 )
