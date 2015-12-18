@@ -1044,12 +1044,6 @@ Connection ~ 1550 1700
 Wire Wire Line
 	1650 1800 1550 1800
 Connection ~ 1550 1800
-Wire Wire Line
-	1650 1900 1550 1900
-Connection ~ 1550 1900
-Wire Wire Line
-	1650 2000 1550 2000
-Connection ~ 1550 2000
 $Comp
 L Jack_Stacked X7
 U 1 1 56223ACE
@@ -1409,4 +1403,10 @@ F 7 "" H 3700 5050 60  0001 C CNN "Manufacturer Part Number"
 $EndComp
 Wire Wire Line
 	2450 5500 2450 5450
+Wire Wire Line
+	1650 2200 1550 2200
+Connection ~ 1550 2200
+NoConn ~ 1650 1900
+NoConn ~ 1650 2000
+NoConn ~ 1650 1350
 $EndSCHEMATC

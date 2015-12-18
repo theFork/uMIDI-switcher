@@ -15,7 +15,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 9 14
+Sheet 11 14
 Title ""
 Date ""
 Rev ""
@@ -45,7 +45,7 @@ AR Path="/56223A60/54E9CF0E" Ref="X4"  Part="1"
 AR Path="/56223A6E/54E9CF0E" Ref="X5"  Part="1" 
 AR Path="/56223A7C/54E9CF0E" Ref="X6"  Part="1" 
 AR Path="/56223A90/54E9CF0E" Ref="X2"  Part="1" 
-F 0 "X6" H 5900 5250 60  0000 C CNN
+F 0 "X2" H 5900 5250 60  0000 C CNN
 F 1 "Jack_Stacked" H 5850 3500 60  0000 C CNN
 F 2 "uMIDI-switcher:NSJ12HF-1" H 6750 3250 60  0001 C CNN
 F 3 "http://www.neutrik.com/zoolu-website/media/download/2927/Drawing+NSJ12HF-1" H 5900 5250 60  0001 C CNN
@@ -61,35 +61,7 @@ Wire Wire Line
 	3400 3500 3300 3500
 Wire Wire Line
 	4500 3500 4700 3500
-Wire Wire Line
-	5100 1550 5100 3300
-Wire Wire Line
-	5100 1650 5300 1650
 Connection ~ 5100 3200
-Wire Wire Line
-	5300 1750 5100 1750
-Connection ~ 5100 1750
-Wire Wire Line
-	5300 1850 5100 1850
-Connection ~ 5100 1850
-Wire Wire Line
-	5300 1950 5100 1950
-Connection ~ 5100 1950
-Wire Wire Line
-	5300 2300 5100 2300
-Connection ~ 5100 2300
-Wire Wire Line
-	5300 2400 5100 2400
-Connection ~ 5100 2400
-Wire Wire Line
-	5300 2500 5100 2500
-Connection ~ 5100 2500
-Wire Wire Line
-	5300 2600 5100 2600
-Connection ~ 5100 2600
-Wire Wire Line
-	5300 1550 5100 1550
-Connection ~ 5100 1650
 Text HLabel 2800 3900 0    60   Input ~ 0
 Ctrl
 Text HLabel 2800 3700 0    60   Input ~ 0
@@ -109,7 +81,7 @@ AR Path="/56223A60/54EA1A07" Ref="#PWR050"  Part="1"
 AR Path="/56223A6E/54EA1A07" Ref="#PWR057"  Part="1" 
 AR Path="/56223A7C/54EA1A07" Ref="#PWR064"  Part="1" 
 AR Path="/56223A90/54EA1A07" Ref="#PWR071"  Part="1" 
-F 0 "#PWR064" H 5100 3050 60  0001 C CNN
+F 0 "#PWR071" H 5100 3050 60  0001 C CNN
 F 1 "GNDA" H 5100 3150 60  0000 C CNN
 F 2 "" H 5100 3300 60  0000 C CNN
 F 3 "" H 5100 3300 60  0000 C CNN
@@ -125,11 +97,38 @@ FX Return
 Wire Wire Line
 	2800 3900 3400 3900
 Wire Wire Line
-	3300 1450 5300 1450
-Wire Wire Line
 	5300 2700 4700 2700
 Wire Wire Line
 	4700 2700 4700 3500
 Wire Wire Line
-	3300 3500 3300 1450
+	5100 1450 5100 3300
+Wire Wire Line
+	3300 3500 3300 1850
+Wire Wire Line
+	3300 1850 5300 1850
+NoConn ~ 5300 1950
+Wire Wire Line
+	5100 1450 5300 1450
+Wire Wire Line
+	5300 1550 5100 1550
+Connection ~ 5100 1550
+Wire Wire Line
+	5300 1650 5100 1650
+Connection ~ 5100 1650
+Wire Wire Line
+	5300 1750 5100 1750
+Connection ~ 5100 1750
+Wire Wire Line
+	5300 2800 3300 2800
+Connection ~ 3300 2800
+Text Notes 6800 3200 0    60   ~ 0
+Return original (fx send)\nsignal when unplugged
+Wire Wire Line
+	5300 2400 5100 2400
+Connection ~ 5100 2400
+Wire Wire Line
+	5300 2300 5100 2300
+Connection ~ 5100 2300
+NoConn ~ 5300 2500
+NoConn ~ 5300 2600
 $EndSCHEMATC
