@@ -1,4 +1,4 @@
-update=Sat 19 Sep 2015 12:23:20 PM CEST
+update=Sat 19 Dec 2015 10:15:10 AM CET
 version=1
 last_client=kicad
 [cvpcb]
@@ -63,3 +63,13 @@ LibName30=valves
 LibName31=stacked_jack
 LibName32=relais
 LibName33=umidi
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
